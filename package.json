@@ -1,0 +1,23 @@
+{
+  "name": "gulp_karma",
+  "version": "1.0.0",
+  "description": "nice project",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "gulp"
+  },
+  "author": "samkan",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-jshint": "^2.1.0",
+    "gulp-util": "^3.0.8",
+    "jasmine-core": "^3.5.0",
+    "jasmine-expect": "^4.0.3",
+    "jshint-stylish": "^2.2.1",
+    "karma": "^4.4.1",
+    "karma-chrome-launcher": "^3.1.0",
+    "karma-firefox-launcher": "^1.2.0",
+    "karma-jasmine": "^2.0.1"
+  }
+}
