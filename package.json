@@ -4,7 +4,8 @@
   "description": "nice project",
   "main": "gulpfile.js",
   "scripts": {
-    "test": "gulp"
+    "start": "gulp",
+    "test": "karma start"
   },
   "author": "samkan",
   "license": "ISC",
